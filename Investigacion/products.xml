@@ -1,0 +1,42 @@
+<productsList>
+    <product>
+        <id>1</id>
+        <img_url>https://cdn.shopify.com/s/files/1/0454/6609/1680/products/yellowpotatobag.jpg?v=1610135796</img_url>
+        <name>Russet Bag full with potatoes.</name>
+        <price>5.99</price>
+        <cantidad>10</cantidad>    
+        <description>A 5lb bag of potatoes for your delight.</description>
+    </product>
+    <product>
+        <id>2</id>
+        <img_url>https://cdn.shopify.com/s/files/1/0454/6609/1680/products/fennel.jpg?v=1609173290</img_url>
+        <name>Fennel dual onion.</name>
+        <price>4.99</price>
+        <cantidad>10</cantidad>  
+        <description>A twin onion couple for your culinary taste.</description>
+    </product>
+    <product>
+        <id>3</id>
+        <img_url>https://cdn.shopify.com/s/files/1/0454/6609/1680/products/Cabbage_Green.jpg?v=1606737539</img_url>
+        <name>Green Cabbage.</name>
+        <price>2.99</price>
+        <cantidad>10</cantidad>  
+        <description>A beautiful big cabbage for your rabbits.</description>
+    </product>
+    <product>
+        <id>4</id>
+        <img_url>https://cdn.shopify.com/s/files/1/0454/6609/1680/products/leeks.jpg?v=1614977340</img_url>
+        <name>Green leek.</name>
+        <price>2.99</price>
+        <cantidad>10</cantidad>  
+        <description>Have you ever seen a leek as nice as this one? of course not! Buy it!</description>
+    </product>
+    <product>
+        <id>5</id>
+        <img_url>https://cdn.shopify.com/s/files/1/0454/6609/1680/products/broccoli2.jpg?v=1610733104</img_url>
+        <name>Green Brocoli.</name>
+        <price>2.3</price>
+        <cantidad>10</cantidad>  
+        <description>A nice chunk of brocoli for your health buddy.</description>
+    </product>
+</productsList>

@@ -1,0 +1,12 @@
+*{
+    padding: 0px;
+}
+img{
+    width: 150px;
+    height: 200px;
+}
+#contenedor{
+    margin: auto;
+    width: 150px;
+    height: 200px;
+}
